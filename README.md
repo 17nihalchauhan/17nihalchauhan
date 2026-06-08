@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Nihal Chauhan👋
+*Building Data Systems Today. Learning to Build Intelligent Systems Tomorrow.*
 
-<!--
-**17nihalchauhan/17nihalchauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer with 5 years of experience building large-scale 
+ETL pipelines, currently expanding into Machine Learning and 
+Data Science.
 
-Here are some ideas to get you started:
+### What I work with
+**Engineering:** Data Pipelines · SQL · ETL Frameworks · Oracle  
+**Data Science:** Python · Pandas · NumPy · Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- 🌱 Building ML projects across environmental and telecom domains
+- 📚 Deepening expertise in statistical modeling and applied ML
+
+### Featured Projects
+- 🚧 Projects coming soon
