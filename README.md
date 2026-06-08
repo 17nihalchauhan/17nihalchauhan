@@ -10,7 +10,7 @@ Data Science.
 **Data Science:** Python · Pandas · NumPy · Scikit-learn
 
 ### Currently
-- 🌱 Building ML projects across environmental and telecom domains
+- 🌱 Building ML projects across various domains
 - 📚 Deepening expertise in statistical modeling and applied ML
 
 ### Featured Projects
